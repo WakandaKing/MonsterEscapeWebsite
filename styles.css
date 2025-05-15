@@ -18,6 +18,16 @@ header h1 {
     margin: 0;
 }
 
+<style>
+.centered-text {
+  text-align: center;
+}
+</style>
+
+<p class="centered-text">This text is centered.</p>
+
+}
+
 section {
     padding: 20px;
     margin: 10px;
