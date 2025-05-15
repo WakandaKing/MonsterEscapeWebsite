@@ -11,21 +11,11 @@ header {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 30px 0;
 }
 
 header h1 {
     margin: 0;
-}
-
-<style>
-.centered-text {
-  text-align: center;
-}
-</style>
-
-<p class="centered-text">This text is centered.</p>
-
 }
 
 section {
@@ -38,7 +28,7 @@ section {
 
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 25px;
     background-color: #333;
     color: white;
 }
@@ -46,12 +36,30 @@ footer {
 img {
     max-width: 100%;
     height: auto;
+    align: center;
     border-radius: 5px;
 }
 
 video {
     width: 100%;
-    max-width: 600px;
+    max-width: 300px;
     display: block;
     margin: 20px auto;
+}
+section: h3{
+    text-align: center;
+#headline{
+    text-align: center;
+    color: white;
+    width = 100%;
+
+}
+section: h3{
+    img-align: center;
+#image{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
 }
